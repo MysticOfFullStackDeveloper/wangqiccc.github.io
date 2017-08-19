@@ -75,6 +75,7 @@ $(".music").click(function(){
          $("audio").get(0).pause();
     }
 })
+$("audio")[0].play();
 $(".restart").click(function(){
     $("#end").hide();
     $("#home").show();
