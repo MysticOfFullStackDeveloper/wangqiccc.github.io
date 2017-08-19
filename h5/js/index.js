@@ -82,6 +82,7 @@ $(".restart").click(function(){
    $("#content,#silk").removeClass("backrun");
     $(".item").children().removeClass("out");
     $(".font").attr("class","font");
+    $("audio")[0].load();
 })
 // document.querySelector(".welcome .button").onclick = function () {
 //     document.querySelector(".welcome").style.display = "none";
