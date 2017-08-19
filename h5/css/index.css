@@ -23,7 +23,7 @@ html,body{
 .start {
     width: 100%;
     height: 100%;
-    background: #fff;
+    background: #000;
 }
 
 .loading {
@@ -48,7 +48,7 @@ html,body{
     width: 100%;
     height: 20px;
     text-align: center;
-    color: #000;
+    color: #fff;
     font-size: 12px;
     line-height: 20px;
 }
@@ -326,6 +326,7 @@ html,body{
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    z-index: 99;
 }
 .fourth .namewraper{
     left: 1rem;
@@ -665,9 +666,10 @@ html,body{
     position: absolute;
     right:0.5rem;
     top:0.5rem;
-    background:url(../img/music.png);
+    background:#fff url(../img/music.png);
     background-size: cover;
     z-index:9999;
+    border-radius: 50%;
 
 }
 .active{

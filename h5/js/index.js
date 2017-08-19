@@ -44,8 +44,8 @@ function move(now,next,time){
              now.hide();
            $("#content,#silk").css("animation-play-state","paused");
              next.show();
-            },2000)
-        },1000)
+            },500)
+        },2500);
        $(this).dequeue();
     })
 })
@@ -83,6 +83,7 @@ $(".restart").click(function(){
     $(".item").children().removeClass("out");
     $(".font").attr("class","font");
     $("audio")[0].load();
+    $("audio")[0].play();
 })
 // document.querySelector(".welcome .button").onclick = function () {
 //     document.querySelector(".welcome").style.display = "none";
