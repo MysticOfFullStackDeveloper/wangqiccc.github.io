@@ -613,8 +613,8 @@ html,body{
     animation: out 1s ease forwards;
 }
 .stone{
-    width:0.9rem;
-    height:1.46rem;
+    width:1.8rem;
+    height:2.92rem;
     position: absolute;
     background:url(../img/pendant_17.png);
     background-size:contain;
@@ -623,8 +623,8 @@ html,body{
     z-index:99;
 }
 .people{
-    width:1.76rem;
-    height:1.01rem;
+    width:3.52rem;
+    height:2.02rem;
     position: absolute;
     background:url(../img/pendant_23.png);
     background-size:contain;
@@ -632,8 +632,8 @@ html,body{
     bottom:0.5rem;
 }
 .sea{
-    width:2.15rem;
-    height:2.24rem;
+    width:4.3rem;
+    height:4.48rem;
      position: absolute;
     background:url(../img/pendant_06.png);
     background-size: contain;
@@ -641,8 +641,8 @@ html,body{
     bottom:0.3rem;
 }
 .litang{
-    width:3.69rem;
-    height:2.41rem;
+    width:7.38rem;
+    height:4.82rem;
      position: absolute;
     background:url(../img/pendant_08.png);
     background-size: contain;
