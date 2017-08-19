@@ -86,7 +86,7 @@ html,body{
     background-size: contain;
     background-repeat: no-repeat;
     position: absolute;
-    top: 1rem;
+    top: .8rem;
     right: .5rem;
 }
 .description{
@@ -104,7 +104,7 @@ html,body{
     background-size: cover;
     background-position: center center;
     position: absolute;
-    bottom: 2.5rem;
+    bottom: 2rem;
     right: 1.5rem;
     animation: slide .5s ease 0s alternate infinite;
 }
@@ -613,8 +613,8 @@ html,body{
     animation: out 1s ease forwards;
 }
 .stone{
-    width:2.7rem;
-    height:4.38rem;
+    width:0.9rem;
+    height:1.46rem;
     position: absolute;
     background:url(../img/pendant_17.png);
     background-size:contain;
@@ -623,8 +623,8 @@ html,body{
     z-index:99;
 }
 .people{
-    width:5.28rem;
-    height:3.03rem;
+    width:1.76rem;
+    height:1.01rem;
     position: absolute;
     background:url(../img/pendant_23.png);
     background-size:contain;
@@ -632,8 +632,8 @@ html,body{
     bottom:0.5rem;
 }
 .sea{
-    width:4.3rem;
-    height:4.48rem;
+    width:2.15rem;
+    height:2.24rem;
      position: absolute;
     background:url(../img/pendant_06.png);
     background-size: contain;
@@ -641,8 +641,8 @@ html,body{
     bottom:0.3rem;
 }
 .litang{
-    width:7.38rem;
-    height:4.82rem;
+    width:3.69rem;
+    height:2.41rem;
      position: absolute;
     background:url(../img/pendant_08.png);
     background-size: contain;
