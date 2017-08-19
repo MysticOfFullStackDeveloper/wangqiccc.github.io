@@ -84,6 +84,7 @@ $(".restart").click(function(){
     $(".font").attr("class","font");
     $("audio")[0].load();
     $("audio")[0].play();
+    $(".music").addClass("active");
 })
 // document.querySelector(".welcome .button").onclick = function () {
 //     document.querySelector(".welcome").style.display = "none";
