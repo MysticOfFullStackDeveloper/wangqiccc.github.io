@@ -62,7 +62,7 @@ $(".fifth .name").click(function(){
         $(".fifth").children().addClass("out");
          setTimeout(function(){
              $(".fifth").hide();
-             $("#content").hide();
+             $("#content,#silk").hide();
             $("#end").show();
             },1000)
     },4000)
@@ -81,7 +81,6 @@ $(".restart").click(function(){
    $("#content,#silk").removeClass("backrun");
     $(".item").children().removeClass("out");
     $(".font").attr("class","font");
-
 })
 // document.querySelector(".welcome .button").onclick = function () {
 //     document.querySelector(".welcome").style.display = "none";
