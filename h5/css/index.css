@@ -216,10 +216,10 @@ html,body{
     top: 1.5rem;
 }
 .namewraper .name{
-    width: 1.4rem;
-    height: 1.4rem;
+    width: 1.42rem;
+    height: 1.42rem;
     margin-bottom: 2px;
-    background-image: url("../img/kunlun_32.png");
+    background-image: url("../img/kl_14.png");
     position: relative;
 }
 .name>div{
