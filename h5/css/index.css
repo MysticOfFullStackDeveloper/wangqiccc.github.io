@@ -93,6 +93,7 @@ html,body{
     width: 2rem;
     height: 2rem;
     background-image: url("../img/des_03.png");
+    background-size: contain;
     position: absolute;
     bottom: 2.5rem;
     left: 1rem;
