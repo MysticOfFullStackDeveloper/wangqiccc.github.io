@@ -213,7 +213,7 @@ html,body{
     height: 4.8rem;
     position: absolute;
     right: 1rem;
-    top: 1.5rem;
+    top: 1rem;
 }
 .namewraper .name{
     width: 1.42rem;
@@ -308,19 +308,19 @@ html,body{
     background-size: cover;
 }
 .third .jumper {
-    top: 4.5rem;
+    top: 4rem;
     left: 1rem;
     margin: 0;
 }
 .third .stamp{
     left:2.8rem;
-    top: 1.5rem;
+    top: 1rem;
 }
 .third .descriptions {
     width: 4.2rem;
     height:4.66rem;
     left: 2.7rem;
-    top: 2.8rem;
+    top: 2.3rem;
     background-image: url("../img/kunlun_12.png");
     background-position: center;
     background-size: contain;
@@ -346,12 +346,12 @@ html,body{
 }
 .fourth .stamp{
     left:2.8rem;
-    top: 6.2rem;
+    top: 5.2rem;
 }
 .fourth .descriptions {
     width:3.55rem;
     left:2.85rem;
-    top:1.3rem;
+    top:0.8rem;
     background-image: url("../img/taiyuanshifan.png");
     background-position: center;
     background-size: contain;
